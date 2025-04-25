@@ -2,5 +2,5 @@
 'All' Browser on the world
 
 Okay, maybe not all.
-Enjoy this fork! Latest version: feb2025-2
+Enjoy this fork! Latest version: 
 
